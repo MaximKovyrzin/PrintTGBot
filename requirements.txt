@@ -1,0 +1,5 @@
+pyTelegramBotAPI>=4.20,<5
+pypdf>=5,<7
+python-dotenv>=1.0,<2
+tzdata>=2025.1
+psycopg[binary,pool]>=3.2,<4

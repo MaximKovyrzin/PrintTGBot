@@ -1,0 +1,19 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Папки, создаваемые средой разработки
+.vscode/
+*.code-workspace
+
+
+__pycache__/
+*.pyc
+print_bot.sqlite3
+print_bot.sqlite3-shm
+print_bot.sqlite3-wal
